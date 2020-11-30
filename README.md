@@ -1,8 +1,8 @@
 # UraiRajut
 
-Adalah sebuah function untuk mengurai atau merajut suatu kata.
+Is a Function to unravel (Urai) or knit (Rajut) a word
 
-Berikut merupakan contoh output:
+Here are the output examples:
 
 1. Function Urai
 # # Use the function
